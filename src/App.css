@@ -56,7 +56,6 @@
   background-color: lightgrey;
 }
 
-/* Buttons */
 .btn {
   padding: 10px 15px;
   margin: 5px;
@@ -88,7 +87,6 @@
   color: blue;
 }
 
-/* Game Over */
 .game-over {
   color: red;
   font-size: 24px;
